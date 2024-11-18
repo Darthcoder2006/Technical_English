@@ -1,11 +1,9 @@
-PPT Big Font
-https://presidencyuniversityin-my.sharepoint.com/:p:/g/personal/aadithya_20241ccs0141_presidencyuniversity_in/EVF4PdB4OHJDsee5DHtB0m4B30cdmOkvhA3VcGQuujyr5Q?e=0ncUcl
-PPT Normal Font
-https://presidencyuniversityin-my.sharepoint.com/:p:/g/personal/aadithya_20241ccs0141_presidencyuniversity_in/ERhhDIILqwtHt3vARu4HKPQBYD5xeSU0s_Iigf8OzDwkXQ?e=Mvf3G5
-PDF Big Font
-https://presidencyuniversityin-my.sharepoint.com/:b:/g/personal/aadithya_20241ccs0141_presidencyuniversity_in/EYLt07mXotlAuOOSEXu9-e4BEmKoShZklgx2vRSzn4VLlw?e=bqYg8K
-PDF Normal Font
-https://presidencyuniversityin-my.sharepoint.com/:b:/g/personal/aadithya_20241ccs0141_presidencyuniversity_in/ET4R9cXn4bFBgoF1BjIXXbkByl1s3lTCoJtf7ZY8cWwA3g?e=fqjDpZ
+PPT
+https://presidencyuniversityin-my.sharepoint.com/:p:/g/personal/aadithya_20241ccs0141_presidencyuniversity_in/EdKcNXdjWjRGuKym5XkavuMBSsqFIPGz9M65Yd0eyGoY3Q?e=JshFAF
+PDF PPT
+https://presidencyuniversityin-my.sharepoint.com/:b:/g/personal/aadithya_20241ccs0141_presidencyuniversity_in/EQU7V4omY-VHnSgN5vaP_X4B2Y3LEKEHeM099B8qfHVN-A?e=E44wOd
+PDF
+https://presidencyuniversityin-my.sharepoint.com/:b:/g/personal/aadithya_20241ccs0141_presidencyuniversity_in/EXKF9sqVZq5FhjpTHNoBZpEBoP_OmYkxUJbd-NriYP5o5w?e=VkVBkU
 SQL Injection CMD Sample
 https://darthcoder2006.github.io/sqlin
 SQL Injection Real Sample
