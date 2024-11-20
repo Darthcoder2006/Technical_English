@@ -1,8 +1,8 @@
-PPT
+PPT Light
 https://presidencyuniversityin-my.sharepoint.com/:p:/g/personal/aadithya_20241ccs0141_presidencyuniversity_in/EdKcNXdjWjRGuKym5XkavuMBSsqFIPGz9M65Yd0eyGoY3Q?e=JshFAF
-PDF PPT
+PDF PPT Light
 https://presidencyuniversityin-my.sharepoint.com/:b:/g/personal/aadithya_20241ccs0141_presidencyuniversity_in/EQU7V4omY-VHnSgN5vaP_X4B2Y3LEKEHeM099B8qfHVN-A?e=E44wOd
-PDF
+PDF Light
 https://presidencyuniversityin-my.sharepoint.com/:b:/g/personal/aadithya_20241ccs0141_presidencyuniversity_in/EXKF9sqVZq5FhjpTHNoBZpEBoP_OmYkxUJbd-NriYP5o5w?e=VkVBkU
 SQL Injection CMD Sample
 https://darthcoder2006.github.io/sqlin
@@ -12,3 +12,7 @@ Wanna Cry Ransomware Video
 https://darthcoder2006.github.io/wcry
 Cryptography Sample
 https://darthcoder2006.github.io/cryp
+PPT Dark
+https://presidencyuniversityin-my.sharepoint.com/:p:/g/personal/aadithya_20241ccs0141_presidencyuniversity_in/EcTltyJnPmVPlr_07hatWPgBWxIm-1crC9Ngel3iuL-6GQ?e=ZEtPxY
+PDF Dark
+https://presidencyuniversityin-my.sharepoint.com/:b:/g/personal/aadithya_20241ccs0141_presidencyuniversity_in/EUyDWQqcwTxDmwqMJUwbbfwBycOzpLMmf_-7R1ViOOQATQ?e=cQF95t
